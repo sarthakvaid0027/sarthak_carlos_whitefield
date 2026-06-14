@@ -1,0 +1,15 @@
+{
+  "test_myfitnesspal_diary_writes": 3,
+  "test_google_calendar_events_read": 1,
+  "test_myfitnesspal_lunch_restaurant_foods": 5,
+  "test_myfitnesspal_dinner_homemade_foods": 5,
+  "test_myfitnesspal_pork_servings": 5,
+  "test_myfitnesspal_carb_goal_unchanged": 3,
+  "test_myfitnesspal_soup_sodium": 1,
+  "test_myfitnesspal_goal_mutated": -5,
+  "test_gmail_distractor": -5,
+  "test_plaid_distractor": -1,
+  "test_notion_distractor": -1,
+  "test_strava_distractor": -1,
+  "test_box_distractor": -1
+}

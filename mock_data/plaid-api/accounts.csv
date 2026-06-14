@@ -1,0 +1,5 @@
+account_id,name,official_name,mask,type,subtype,available,current,limit,iso_currency_code
+acc_chk_cw,Everyday Checking,Beaverton CCU Checking,0231,depository,checking,4218.55,4218.55,,USD
+acc_sav_cw,Savings,Beaverton CCU Savings,0232,depository,savings,38004.12,38004.12,,USD
+acc_ira_cw,Fidelity IRA,Fidelity Rollover IRA,7781,investment,ira,285430.0,285430.0,,USD
+acc_visa_cw,Visa,Beaverton CCU Visa,4410,credit,credit card,2310.0,689.44,3000.0,USD

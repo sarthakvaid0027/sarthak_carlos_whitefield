@@ -1,0 +1,35 @@
+{
+  "item": {
+    "item_id": "item_cw_8a1f2c",
+    "institution_id": "ins_204418",
+    "webhook": "https://example.com/plaid/webhook",
+    "available_products": [
+      "balance",
+      "identity"
+    ],
+    "billed_products": [
+      "transactions",
+      "auth"
+    ],
+    "consent_expiration_time": null,
+    "update_type": "background"
+  },
+  "institution": {
+    "institution_id": "ins_204418",
+    "name": "Beaverton Community Credit Union",
+    "products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "country_codes": [
+      "US"
+    ],
+    "url": "https://www.beavertonccu.example.com",
+    "primary_color": "#2f6f4f",
+    "routing_numbers": [
+      "323075880"
+    ]
+  }
+}

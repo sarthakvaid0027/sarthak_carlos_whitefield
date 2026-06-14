@@ -1,0 +1,10 @@
+transaction_id,account_id,amount,iso_currency_code,date,name,merchant_name,category,pending,payment_channel
+txn_c001,acc_visa_cw,86.42,USD,2026-09-29,Fred Meyer Groceries,Fred Meyer,Shops;Supermarkets,false,in store
+txn_c002,acc_visa_cw,24.18,USD,2026-10-03,Jade Bowl,Jade Bowl,Food and Drink;Restaurants,false,in store
+txn_c003,acc_visa_cw,41.07,USD,2026-10-02,Chevron,Chevron,Travel;Gas Stations,false,in store
+txn_c004,acc_chk_cw,1650.0,USD,2026-10-01,Social Security Deposit,SSA,Transfer;Deposit,false,other
+txn_c005,acc_visa_cw,18.75,USD,2026-09-26,Fred Meyer Pharmacy,Fred Meyer,Healthcare;Pharmacy,false,in store
+txn_c006,acc_visa_cw,62.3,USD,2026-10-05,Home Depot,Home Depot,Shops;Hardware,false,in store
+txn_c007,acc_chk_cw,1800.0,USD,2026-10-01,Cascade Pension,Cascade Precision,Transfer;Deposit,false,other
+txn_c008,acc_visa_cw,54.9,USD,2026-09-30,Cedar Grill,The Cedar Grill,Food and Drink;Restaurants,false,in store
+txn_c009,acc_visa_cw,33.21,USD,2026-10-04,Fred Meyer Groceries,Fred Meyer,Shops;Supermarkets,false,in store

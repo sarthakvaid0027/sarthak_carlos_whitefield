@@ -1,0 +1,49 @@
+food_id,food_name,brand,serving_size,serving_unit,calories,total_fat_g,saturated_fat_g,cholesterol_mg,sodium_mg,total_carbs_g,dietary_fiber_g,sugars_g,protein_g,potassium_mg,is_verified
+2001,June's Chicken & Vegetable Soup,,1.5,cups,150,4,1,35,180,17,3,5,12,420,false
+2002,"Cornbread, homemade",,1,piece,198,6,1.5,30,205,29,2,6,4,95,false
+2003,"Collard Greens, cooked",,1,cup,63,1.4,0.2,0,30,11,8,1,5,220,true
+2004,"Pork Chop, grilled",,1,chop (4 oz),210,12,4,70,75,0,0,0,26,360,true
+2005,Wonton Soup,Jade Bowl,1,bowl,190,5,1.5,35,900,26,2,3,11,240,false
+2006,Steamed Vegetables with Chicken,Jade Bowl,1,plate,320,9,2,75,720,22,6,8,34,760,false
+2007,"Oatmeal, cooked",,1,cup,158,3,0.5,0,115,27,4,1,6,143,true
+2008,Blueberries,,0.5,cup,42,0.2,0,0,1,11,2,7,0.5,57,true
+2009,Scrambled Eggs,,2,eggs,182,13,4,370,175,2,0,1,12,138,true
+2010,Whole Wheat Toast,,1,slice,80,1,0.2,0,145,14,2,2,4,70,true
+2011,Grilled Salmon,,1,fillet (5 oz),280,16,3.5,80,95,0,0,0,34,600,true
+2012,"Brown Rice, cooked",,1,cup,216,1.8,0.4,0,10,45,4,0,5,84,true
+2013,Steamed Broccoli,,1,cup,55,0.6,0,0,33,11,5,2,4,457,true
+2014,"Baked Chicken Breast, herbs",,1,breast (5 oz),240,6,1.5,110,110,0,0,0,44,380,true
+2015,Apple,,1,medium,95,0.3,0,0,2,25,4,19,0.5,195,true
+2016,Unsalted Almonds,,1,oz,164,14,1,0,0,6,4,1,6,208,true
+2017,Whole Wheat Crackers,,6,crackers,120,4,0.5,0,180,20,3,2,3,80,true
+2018,Black Coffee,,1,cup,2,0,0,0,5,0,0,0,0.3,116,true
+2019,"Chicken and Dumplings, homemade",,1.5,cups,320,12,3,65,480,34,2,4,22,410,false
+2050,"Chicken Noodle Soup, canned",Campbell's,1,cup,90,2.5,0.5,15,890,11,1,1,5,100,true
+2051,"Chicken & Vegetable Soup, canned",Healthy Choice,1,cup,120,2,0.5,20,640,18,3,4,8,350,true
+2052,"Steamed Vegetables w/ Chicken, frozen",Healthy Choice,1,package,230,6,1.5,45,560,24,5,6,18,480,true
+2020,Banana,,1,medium,105,0.4,0.1,0,1,27,3,14,1.3,422,true
+2021,"Greek Yogurt, plain nonfat",Fage,0.75,cup,100,0,0,5,65,6,0,6,17,240,true
+2022,Peanut Butter,Jif,2,tbsp,190,16,3,0,140,8,2,3,7,180,true
+2023,2% Milk,,1,cup,122,4.8,3,20,115,12,0,12,8,366,true
+2024,Cheddar Cheese,Tillamook,1,oz,110,9,5,30,180,1,0,0,7,28,true
+2025,"White Rice, cooked",,1,cup,205,0.4,0.1,0,2,45,0.6,0,4,55,true
+2026,"Spaghetti, cooked",,1,cup,221,1.3,0.2,0,1,43,2.5,0.8,8,62,true
+2027,Marinara Sauce,Rao's,0.5,cup,80,5,1,0,280,6,2,4,2,300,true
+2028,"Ground Beef, 90% lean",,4,oz,199,11,4.5,76,75,0,0,0,23,318,true
+2029,"Green Beans, steamed",,1,cup,44,0.3,0,0,1,10,4,2,2,209,true
+2030,"Carrots, raw",,1,cup,52,0.3,0,0,88,12,3,6,1.2,410,true
+2031,"Tomato, raw",,1,medium,22,0.2,0,0,6,4.8,1.5,3.2,1.1,292,true
+2032,Romaine Lettuce,,2,cups,16,0.3,0,0,8,3,2,1,1.2,247,true
+2033,Olive Oil,,1,tbsp,119,13.5,1.9,0,0,0,0,0,0,0,true
+2034,Butter,Land O'Lakes,1,tbsp,102,11.5,7.3,31,90,0,0,0,0.1,3,true
+2035,Honey,,1,tbsp,64,0,0,0,1,17,0,17,0.1,11,true
+2036,Orange Juice,Tropicana,1,cup,112,0.5,0,0,2,26,0.5,21,2,496,true
+2037,Cornflakes,Kellogg's,1,cup,100,0.2,0,0,200,24,1,3,2,30,true
+2038,Turkey Sandwich,,1,sandwich,320,9,2.5,45,820,38,4,6,24,360,true
+2039,"Tuna, canned in water",StarKist,3,oz,80,0.5,0,25,180,0,0,0,18,200,true
+2040,"Sweet Potato, baked",,1,medium,112,0.1,0,0,72,26,4,5,2,438,true
+2041,"Cottage Cheese, lowfat",,0.5,cup,90,2.5,1.5,15,350,5,0,4,12,140,true
+2042,Pear,,1,medium,101,0.2,0,0,2,27,6,17,0.6,206,true
+2043,Walnuts,,1,oz,185,18,1.7,0,1,4,2,1,4,125,true
+2044,Brown Sugar Oatmeal Packet,Quaker,1,packet,160,2,0.5,0,260,32,3,12,4,120,true
+2045,Mixed Green Salad,,2,cups,20,0.2,0,0,15,4,2,2,1.5,300,true

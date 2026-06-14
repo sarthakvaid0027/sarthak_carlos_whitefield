@@ -1,0 +1,44 @@
+{
+  "user_id": 1,
+  "username": "carlosw1953",
+  "display_name": "Carlos",
+  "email": "carlos.whitfield@Finthesiss.ai",
+  "date_of_birth": "1953-12-08",
+  "sex": "male",
+  "height_cm": 177.8,
+  "current_weight_lbs": 182.0,
+  "goal_weight_lbs": 178.0,
+  "activity_level": "lightly_active",
+  "profile_image_url": "https://mfp-static.example.com/avatars/carlosw1953.jpg",
+  "location": "Beaverton, OR",
+  "joined_date": "2025-06-01",
+  "daily_calorie_goal": 1800,
+  "macro_goals": {
+    "carbs_pct": 33,
+    "fat_pct": 40,
+    "protein_pct": 27
+  },
+  "nutrient_goals": {
+    "calories": 1800,
+    "total_fat_g": 60,
+    "saturated_fat_g": 16,
+    "cholesterol_mg": 200,
+    "sodium_mg": 1500,
+    "total_carbs_g": 150,
+    "dietary_fiber_g": 30,
+    "sugars_g": 45,
+    "protein_g": 120,
+    "potassium_mg": 3500,
+    "vitamin_a_pct": 100,
+    "vitamin_c_pct": 100,
+    "calcium_pct": 100,
+    "iron_pct": 100
+  },
+  "weekly_weight_goal_lbs": -0.5,
+  "units": {
+    "weight": "lbs",
+    "height": "inches",
+    "water": "cups",
+    "energy": "calories"
+  }
+}

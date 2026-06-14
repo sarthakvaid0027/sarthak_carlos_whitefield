@@ -1,0 +1,4 @@
+id,name,parent_id,owner_id,description,created_at,modified_at,item_count
+160050,Medical,0,22001,Provider summaries,2024-06-10T08:00:00-07:00,2026-07-08T11:00:00-07:00,3
+160051,Finance,0,22001,Pension and insurance,2024-06-10T08:00:00-07:00,2026-07-01T08:00:00-07:00,2
+160052,Estate,0,22001,Legal,2024-06-10T08:00:00-07:00,2024-06-15T08:00:00-07:00,1
